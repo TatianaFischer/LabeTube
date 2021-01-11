@@ -1,4 +1,4 @@
-# LabeTube
+# 📹📼 LabeTube
 
 
 
@@ -23,7 +23,6 @@ My first project developed by me in HTML and CSS, the project is a page with vid
 
 
 Project developed during the course of Laben [LABENU](https://www.labenu.com.br/)
-
 
 
 ---
@@ -71,6 +70,6 @@ To install the dependencies and start the project, you can use NPM:
 ---
 
 <h4 align="center">
-Developer:  [Tatiana Fischer](https://github.com/TatianaFischer)
-  Thanks 💙
+
+ Developed with 💚 by Tatiana Fischer!
 </h4>
